@@ -1,8 +1,3 @@
-Here’s a detailed README.md version for your project:
-
-
----
-
 📊 Student Habits vs Academic Performance Dashboard
 
 📌 Overview
